@@ -51,10 +51,6 @@ Dica: edite livremente. Se o card do SharksFromSpace não carregar, ajuste o own
   <img height="120" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Mateus-Avila&theme=flat&no-frame=true&no-bg=true&row=1&column=6" />
 </a>
 
-<a href="https://github.com/Mateus-Avila">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mateus-Avila&theme=github-compact&hide_border=true" />
-</a>
-
 </div>
 
 ---
