@@ -2,15 +2,15 @@
 Dica: edite livremente. Se o card do SharksFromSpace não carregar, ajuste o owner/repo no link do pin.
 -->
 
-<h1 align="center">Fala, eu sou o Mateus 👋</h1>
+<h1 align="center">Olá, eu sou o Mateus 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer+%E2%80%A2+Node.js+%7C+TypeScript+%7C+NestJS;APIs+e+Microservi%C3%A7os+orientados+a+eventos+(Kafka);PostgreSQL+%2B+Redis+%2B+Docker%2FK8s+%2B+AWS;Dev+que+gosta+de+c%C3%B3digo+limpo%2C+logs+%26+observabilidade" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=700&center=true&vCenter=true&width=740&lines=Backend+Developer;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+NestJS;Kafka+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis;Docker+%E2%80%A2+K8s+%E2%80%A2+AWS;Clean+code+%E2%80%A2+logs+%E2%80%A2+observability" alt="Typing intro" />
 </p>
 
 <p align="center">
   <a href="mailto:mateusmenavila@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mateusmenavila%40gmail.com-informational?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/devmateusavila" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-devmateusavila-blue?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/devmateusavila"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-devmateusavila-blue?logo=linkedin"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Mateus-Avila&style=flat-square">
 </p>
 
