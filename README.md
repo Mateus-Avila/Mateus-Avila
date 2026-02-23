@@ -45,10 +45,8 @@ Curto construir sistemas que **seguram produção**: API bem validada, integraç
 
 ---
 
-## 🧰 Stack (atual)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,ts,nestjs,postgres,redis,kafka,docker,kubernetes,aws,git,linux&perline=7" />
-</p>
+## 🧰 Stack
+<img src="https://skillicons.dev/icons?i=laravel,php,postgres,redis,docker,aws,git&perline=7&v=2" />
 
 <p align="center">
   <img alt="Principles" src="https://img.shields.io/badge/Princ%C3%ADpios-Clean%20Code%20%7C%20SOLID%20%7C%20Observability-111">
