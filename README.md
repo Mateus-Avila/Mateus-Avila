@@ -45,11 +45,21 @@ Curto construir sistemas que **seguram produção**: API bem validada, integraç
 
 ---
 
-## 🧰 Stack
-<img src="https://skillicons.dev/icons?i=laravel,php,postgres,redis,docker,aws,git&perline=7&v=2" />
-
+## 🧰 Stack (atual)
 <p align="center">
-  <img alt="Principles" src="https://img.shields.io/badge/Princ%C3%ADpios-Clean%20Code%20%7C%20SOLID%20%7C%20Observability-111">
+  <img src="https://img.shields.io/badge/Laravel-111?logo=laravel" />
+  <img src="https://img.shields.io/badge/PHP-111?logo=php" />
+  <img src="https://img.shields.io/badge/Node.js-111?logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/TypeScript-111?logo=typescript" />
+  <img src="https://img.shields.io/badge/NestJS-111?logo=nestjs" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111?logo=postgresql" />
+  <img src="https://img.shields.io/badge/Redis-111?logo=redis" />
+  <img src="https://img.shields.io/badge/Kafka-111?logo=apachekafka" />
+  <img src="https://img.shields.io/badge/Docker-111?logo=docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-111?logo=kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-111?logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Linux-111?logo=linux" />
+  <img src="https://img.shields.io/badge/Git-111?logo=git" />
 </p>
 
 ---
